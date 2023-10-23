@@ -1,0 +1,5 @@
+This folder (service) is mainly used for Interfaces. It is like when we want to 
+declare types for each variable, we are doing the same here for classes. 
+
+In an interface, we are including what methods and variables are required to be used by a class.
+An interface defines a contract for classes that implement it.

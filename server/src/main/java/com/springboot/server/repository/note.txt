@@ -1,0 +1,2 @@
+A Repository folder in a spring boot backend typically refers to how we can write 
+custom db queries
